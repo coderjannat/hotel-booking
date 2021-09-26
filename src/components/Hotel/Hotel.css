@@ -1,0 +1,12 @@
+.img {
+    width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+.icon-color {
+color: rgb(200, 128, 12);
+
+}
