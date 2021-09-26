@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    
+}
+.Header-logo {
+    background-color: rgb(233, 68, 18);
+    color: white;
+    border-radius: 20%;
+}
