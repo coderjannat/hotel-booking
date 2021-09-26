@@ -1,1 +1,90 @@
-
+[
+  {
+    "key": "B002RL8IYK",
+    "name": "Seasons Resort Lanai",
+    "address": "Lanai City, HI",
+    "internet": "Free-Wifi",
+    "star": 3,
+    "img": "https://images.pexels.com/photos/1580112/pexels-photo-1580112.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": 468.36
+  },
+  {
+    "key": "B01LZ2WZGH",
+    "name": "The Peninsula Chicago",
+    "address": "Sunny Isles Beach, FL",
+    "internet": "Free-Wifi",
+    "star": 2,
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/f7/27/1d/exterior-view.jpg",
+    "price": 400.88
+  },
+  {
+    "key": "B01K1IO3QW",
+    "name": "The Beverly Hills Hotel",
+    "address": "Chicago, IL",
+    "internet": "Free-Wifi",
+    "star": 3,
+    "img": "https://images.pexels.com/photos/3678857/pexels-photo-3678857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+   
+    "price": 600.99
+  },
+  {
+    "key": "B016F3M7OM",
+    "name": "The Langham, Chicago",
+    "address": "Beverly Hills, CA",
+    "internet": "Free-Wifi",
+    "star": 4,
+    "img": "https://images.pexels.com/photos/2670273/pexels-photo-2670273.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    
+    "price": 1200.99
+  },
+  {
+    "key": "B01MQ0FSS0",
+    "name": "Seasons Hotel DC",
+    "address": "Washington, DC",
+    "internet": "Free-Wifi",
+    "star": 4,
+    "img": "https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    
+    "price": 600
+  },
+  {
+    "key": "B01KVIN26O",
+    "name": "Resort Maui at Wailea ",
+    "address": "Wailea, HI",
+    "internet": "Free-Wifi",
+    "star": 4,
+    "img": "https://images.pexels.com/photos/1334605/pexels-photo-1334605.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    
+    "price": 900.98
+  },
+  {
+    "key": "B00OSTKZWM",
+    "name": "The Jefferson",
+    "address": "Washington, DC",
+    "internet": "Free-Wifi",
+    "star": 3,
+    "img": "https://images.pexels.com/photos/3797503/pexels-photo-3797503.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    
+    "price": 570.99
+  },
+  {
+    "key": "B01H2E0J5M",
+    "name": "Rancho Resort & Spa",
+    "address": "Rancho Santa Fe, CA",
+    "internet": "Free-Wifi",
+    "star": 3,
+    "img": "https://images.pexels.com/photos/2901215/pexels-photo-2901215.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+   
+    "price": 590.99
+  },
+  {
+    "key": "B0713WPJKX",
+    "name": "The Sea Pines Resort",
+    "address": "Hilton Head Island, SC",
+    "internet": "Free-Wifi",
+    "star": 4,
+    "img": "https://images.pexels.com/photos/441379/pexels-photo-441379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+   
+    "price": 1070.99
+  }
+]
